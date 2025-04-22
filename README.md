@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sudeep K S👋  
 
-<!--
-**sudeep119/sudeep119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sudeep K S, currently an intern at X-workZ, where I’m sharpening my Java skills. I’m passionate about learning, improving my skills, and creating well-structured code.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🌱 What I'm working on
+
+- Core Java  
+- Object-Oriented Programming  
+- Strengthening software development fundamentals
+
+---
+
+## 🛠 Tech Stack
+
+- *Languages:* Java, HTML,CSS, SQL  
+- *Tools & IDEs:* Git, VS Code, IntelliJ  
+- *Learning:* Web technologies, Clean code principles, Debugging practices  
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+
+![Sudeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeep119&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudeep119&theme=tokyonight)
+
+---
+</div>
+
+"Strive for progress, not perfection.🚀"
+
