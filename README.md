@@ -27,14 +27,5 @@ I'm Sudeep K S, currently an intern at X-workZ, where I’m sharpening my Java s
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-
-![Sudeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeep119&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudeep119&theme=tokyonight)
-
----
-</div>
-
 "Good things takes time"
 
