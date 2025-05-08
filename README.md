@@ -8,7 +8,11 @@ I'm Sudeep K S, currently an intern at X-workZ, where I’m sharpening my Java s
 
 ## 🌱 What I'm working on
 
-- Core Java  
+- Core Java
+- Advance java
+- Spring 6.x Spring Boot 3.x
+- HTML,CSS and JavaScript
+- React(JavaScript library)
 - Object-Oriented Programming  
 - Strengthening software development fundamentals
 
@@ -16,9 +20,10 @@ I'm Sudeep K S, currently an intern at X-workZ, where I’m sharpening my Java s
 
 ## 🛠 Tech Stack
 
-- *Languages:* Java, HTML,CSS, SQL  
-- *Tools & IDEs:* Git, VS Code, IntelliJ  
-- *Learning:* Web technologies, Clean code principles, Debugging practices  
+- Languages: Java,JavaScript.
+- Front end technologies:  HTML, CSS , JavaScript, React.
+- Tools & IDEs: Git, VS Code, IntelliJ ,Eclipse.
+- Learning: Web technologies, Clean code principles, Design patterns ,Full stack development.
 
 ---
 
@@ -31,5 +36,5 @@ I'm Sudeep K S, currently an intern at X-workZ, where I’m sharpening my Java s
 ---
 </div>
 
-"Strive for progress, not perfection.🚀"
+"Good things takes time"
 
