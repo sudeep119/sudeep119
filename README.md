@@ -1,12 +1,12 @@
 # Hi, I'm Sudeep K S👋  
 
-I'm Sudeep K S, currently an intern at X-workZ, where I’m sharpening my Java skills. I’m passionate about learning, improving my skills, and creating well-structured code.
+I'm Sudeep K S, currently an intern at X-workZ, where I’m learning full stack development . I’m passionate about learning, improving my skills, upgrading myself to the current tech and creating an optimised well-structured code.
 
 
 
 ---
 
-## 🌱 What I'm working on
++ What I'm working on
 
 - Core Java
 - Advance java
@@ -18,7 +18,7 @@ I'm Sudeep K S, currently an intern at X-workZ, where I’m sharpening my Java s
 
 ---
 
-## 🛠 Tech Stack
++ Tech Stack
 
 - Languages: Java,JavaScript.
 - Front end technologies:  HTML, CSS , JavaScript, React.
