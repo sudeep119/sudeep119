@@ -10,9 +10,9 @@ I'm Sudeep K S, currently an intern at X-workZ, where I’m learning full stack 
 
 - Core Java
 - Advance java
-- Spring 6.x Spring Boot 3.x
+- Spring 6.x Spring Boot 3.x Spring Security 6
 - HTML,CSS and JavaScript
-- React(JavaScript library)
+- ReactJS(JavaScript library)
 - Object-Oriented Programming  
 - Strengthening software development fundamentals
 
